@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">李先生 - .NET 全栈 / AI 协作开发实践</title>
+  <desc id="desc">个人主页索引：10 年 .NET 全栈与企业信息化经验，三个已开源的 AI 协作开发实践项目。</desc>
+  <defs>
+    <linearGradient id="pbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#081321"/><stop offset="1" stop-color="#102a39"/></linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#pbg)"/>
+  <path d="M0 268C160 236 260 300 430 268s250-44 420 0 210 16 350-28V320H0Z" fill="#06111c" opacity="0.55"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif">
+    <text x="56" y="66" fill="#7de9e1" font-size="18" font-weight="700" letter-spacing="2">.NET 全栈 · 企业信息化 · 江苏无锡</text>
+    <text x="54" y="132" fill="#f2fbfc" font-size="54" font-weight="800">李先生</text>
+    <text x="56" y="168" fill="#a9c3ce" font-size="20">10 年集团级系统独立交付 · AI 协作开发实践者</text>
+    <text x="56" y="204" fill="#dcecf0" font-size="19">工作流：需求质询 → 模块契约 → 预设自测 → 人工复核</text>
+    <g transform="translate(56 232)">
+      <rect width="120" height="30" rx="15" fill="#12313c" stroke="#2bd9d0" stroke-opacity="0.5"/>
+      <text x="60" y="21" fill="#a8f5ed" font-size="15" font-weight="700" text-anchor="middle">3 个开源项目</text>
+      <rect x="132" width="150" height="30" rx="15" fill="#12313c" stroke="#2bd9d0" stroke-opacity="0.5"/>
+      <text x="207" y="21" fill="#a8f5ed" font-size="15" font-weight="700" text-anchor="middle">全部含提交历史</text>
+    </g>
+  </g>
+  <g transform="translate(640 56)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif">
+    <text x="0" y="0" fill="#8baab7" font-size="16" font-weight="700" letter-spacing="1">OPEN SOURCE</text>
+    <g transform="translate(0 18)">
+      <rect width="500" height="70" rx="12" fill="#0b1d2b" stroke="#2bd9d0" stroke-opacity="0.45"/>
+      <text x="20" y="30" fill="#bafff8" font-size="20" font-weight="800">newmes</text>
+      <text x="118" y="30" fill="#7fa8b4" font-size="15">.NET 10 + SQL Server</text>
+      <text x="20" y="55" fill="#c9dde2" font-size="16">制造执行系统后端 · 28 篇 ADR · 集成测试门禁</text>
+    </g>
+    <g transform="translate(0 98)">
+      <rect width="500" height="70" rx="12" fill="#0b1d2b" stroke="#f5aa48" stroke-opacity="0.45"/>
+      <text x="20" y="30" fill="#ffd49b" font-size="20" font-weight="800">bilibili-comment-filter</text>
+      <text x="20" y="55" fill="#c9dde2" font-size="16">浏览器插件 + FastAPI + LLM 三态判定 · 266 项测试</text>
+    </g>
+    <g transform="translate(0 178)">
+      <rect width="500" height="70" rx="12" fill="#0b1d2b" stroke="#cf8df2" stroke-opacity="0.45"/>
+      <text x="20" y="30" fill="#fae8ff" font-size="20" font-weight="800">one-game</text>
+      <text x="110" y="30" fill="#7fa8b4" font-size="15">Godot 4.7</text>
+      <text x="20" y="55" fill="#c9dde2" font-size="16">竞技场 Roguelite · AI 协作工作流的验证载体</text>
+    </g>
+  </g>
+</svg>
